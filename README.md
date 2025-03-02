@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>
-		Bem vindo 👋, Sou o Ruan 
+		Seja Bem vindo 👋, Sou o Ruan 
 		<br><br>
 		Desenvolvedor Full Stack
 		<br><br>
