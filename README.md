@@ -1,6 +1,9 @@
 <div align="center">
-	<h1>Olá 👋, Sou o Ruan </h1>
-	<h2 style="color:blue">Desenvolvedor Full Stack</h2>
+	<h1>
+		Olá 👋, Sou o Ruan 
+		<br>
+		<span style=font-size:20px>Desenvolvedor Full Stack</span>
+	</h1>
 	<div>
 		<a href="https://www.linkedin.com/in/ruan-de-moraes-alexandre-771217236/" target="_blank"><img src="images/linkedin.png" width="40" title="Linkedin"/></a>
 		<a href="https://www.instagram.com/alexandre.ruan_/" target="_blank"><img src="images/instagram.png" width="40" title="Instagram"/></a>
