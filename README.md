@@ -1,4 +1,8 @@
-<h1 align="center">Olá 👋, Sou o Ruan <br> Desenvolvedor Web Full-Stack</h1>
+<h1 align="center">
+	Olá 👋, Sou o Ruan 
+	<br><br>
+	Desenvolvedor Web Full-Stack
+</h1>
 
 
 <p align="center">
