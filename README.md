@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Sou o Ruan</h1>
-<h1 align="center">Desenvolvedor Web Full-Stack</h1>
+<h1 align="center">Olá 👋, Sou o Ruan <br> Desenvolvedor Web Full-Stack</h1>
+
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/ruan-de-moraes-alexandre-771217236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruan-de-moraes-alexandre-771217236/" height="30" width="40" /></a>
