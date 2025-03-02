@@ -1,34 +1,31 @@
-<h1 align="center">
-	Olá 👋, Sou o Ruan 
-	<br><br>
-	Desenvolvedor Web Full-Stack
-	<p align="center">
-		<a href="https://www.linkedin.com/in/ruan-de-moraes-alexandre-771217236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruan-de-moraes-alexandre-771217236/" height="30" width="40" /></a>
-		<a href="http://alexandre.byethost10.com/public/images/avatar.jpeg" target="_blank"><img align="center" height="30" width="40" scr="images/avatar.jpeg"/><a>
-	</p>
-</h1>
-	<br><br>
-
-<h3 align="left">Ferramentas</h3>
 <div align="center">
-	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-	<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-	jquery icon?
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-	<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-	sql icon?
-	<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-	<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+	<h1>Olá 👋, Sou o Ruan </h1>
+	<h2 style="color:blue">Desenvolvedor Full Stack</h2>
+	<div>
+		<a href="https://www.linkedin.com/in/ruan-de-moraes-alexandre-771217236/" target="_blank"><img src="images/linkedin.png" width="40" title="Linkedin"/></a>
+		<a href="https://www.instagram.com/alexandre.ruan_/" target="_blank"><img src="images/instagram.png" width="40" title="Instagram"/></a>
+	</div>
+</div>
+<hr>
+<div align="center">
+	<img src="images/bash.png" alt="bash" 				width="37"/> 
+	<img src="images/linux.png" alt="linux" 			width="37"/> 
+	<img src="images/docker.png" alt="docker" 			width="37"/> 
+	<img src="images/php.png" alt="php" 				width="37"/> 
+	<img src="images/laravel.png" alt="laravel" 		width="37"/> 
+	<img src="images/python.png" alt="python" 			width="37"/> 
+	<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="37"/> 
+	<img src="images/javascript.png" alt="javascript" 	width="37"/> 
+	<img src="images/jquery.png" alt="jquery" 			width="37"/> 
+	<img src="images/react.png" alt="react" 			width="37"/> 
+	<img src="images/kotlin.png" alt="kotlin" 			width="37"/> 
+	<img src="images/html.png" alt="html" 				width="37"/> 
+	<img src="images/css.png" alt="css" 				width="37"/> 
+	<img src="images/bootstrap.png" alt="bootstrap" 	width="37"/> 
+	<img src="images/tailwind.png" alt="tailwind" 		width="37"/> 
+	<img src="images/sql.png" alt="sql" 				width="37"/> 
+	<img src="images/sql-server.png" alt="sql server" 	width="37"/> 
+	<img src="images/my-sql.png" alt="my sql" 			width="37"/> 
+	<img src="images/maria-db.png" alt="maria db" 		width="37"/> 
+	<img src="images/git.png" alt="git" 				width="37"/> 
 </div>
