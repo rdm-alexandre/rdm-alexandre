@@ -1,8 +1,9 @@
 <h1 align="center">
 	Olá 👋, Sou o Ruan 
-	<br><br>
+	<br>
 	Desenvolvedor Web Full-Stack
 </h1>
+	<br><br>
 
 
 <p align="center">
